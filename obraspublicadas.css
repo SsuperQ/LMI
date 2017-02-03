@@ -1,0 +1,153 @@
+
+#libro1{
+	width: 330px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro11.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#libro1:hover {
+	width: 330px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro22.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#libro2 {
+	width: 330px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro22.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#libro2:hover {
+	width: 330px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro33.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#libro3 {
+	width: 330px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro33.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#libro3:hover {
+	width: 330px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro11.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+#libro4 {
+	width: 330px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro44.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#libro4:hover {
+	width: 300px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro22.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#libro5{
+	width: 330px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro5.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#libro5:hover {
+	width: 330px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro5.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#libro6 {
+	width: 330px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro6.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#libro6:hover {
+	width: 330px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro6.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#libro7 {
+	width: 330px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro7.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#libro7:hover {
+	width: 330px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro7.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+#libro8 {
+	width: 330px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro8.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#libro8:hover {
+	width: 300px;
+	height: 364px;
+	background-image: url("images/obraspublicadas/libro8.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#obras{
+	font-size: 0.7em;
+	font-family:cursive;
+	text-align: center;
+	color: #403535;
+
+}
+
+#obras:hover{
+	background-color:dimgray;
+	font-size: 0.7em;
+	font-family:cursive;
+	text-align: center;
+	color:beige;
+}
+
+#contentobras{
+	margin-top: 2em;
+	margin-left: 4em;
+	margin-right: 4em;
+	font-size: 1.3em;
+	font-family:cursive;
+	text-align: center;
+	color: #403535;
+}
+
